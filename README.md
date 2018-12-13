@@ -10,8 +10,10 @@ Workflow
 
 To compile the entire project,
 
-```javac RushHour.java
-java RushHour config```
+```javac RushHour.java```
+
+
+```java RushHour config```
 
 
 
