@@ -22,4 +22,4 @@ To compile the entire project,
 Live Gameplay
 ========
 
-[gif](https://github.com/taylorletsoaka/TrafficJam/blob/master/src/trafficjam.gif)
+![gif](https://github.com/taylorletsoaka/TrafficJam/blob/master/src/trafficjam.gif)
