@@ -19,7 +19,7 @@ To compile the entire project,
 
 ```java RushHour config```
 
+Live Gameplay
+========
 
-
-
-
+[gif](https://github.com/taylorletsoaka/TrafficJam/blob/master/src/trafficjam.gif)
